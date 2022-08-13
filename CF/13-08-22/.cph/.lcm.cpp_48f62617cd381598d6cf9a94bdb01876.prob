@@ -1,0 +1,1 @@
+{"name":"Local: lcm","url":"d:\\CODES\\C I C++\\CF\\13-08-22\\lcm.cpp","tests":[{"id":1660406533369,"input":"4\n1 4\n3 5\n8 86\n68 86","output":"3\n1\n78975\n969"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODES\\C I C++\\CF\\13-08-22\\lcm.cpp","group":"local","local":true}
